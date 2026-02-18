@@ -3,10 +3,12 @@
 ## 📊 Project Overview
 Interactive Power BI dashboard analyzing 10,000+ movies from The Movie Database (TMDB) to uncover rating patterns, production trends, and content opportunities across languages and time periods.
 
-## 🎯 Key Insights
-- **Language Performance**: Japanese films achieve highest average ratings (7.8/10) among top 5 languages
-- **Production Growth**: 400% increase in annual movie releases post-2000, driven by digital filmmaking
-- **Hidden Gems**: Identified 150+ high-rated films (8.0+) with low popularity scores, representing untapped promotion opportunities
+## 🎯 Key Insights & Business Impact
+
+- **Content Acquisition Strategy**: Analysis of top 5 languages reveals rating performance variations, enabling data-driven decisions for international content licensing and production investments
+- **Market Growth Opportunity**: Visualized exponential increase in movie production from 1920-2024, identifying emerging content supply trends and competitive landscape shifts for streaming platforms
+- **Hidden Revenue Potential**: Identified undervalued high-rated films with low popularity scores, representing cost-effective acquisition opportunities with strong audience satisfaction potential for          recommendation algorithms
+- **ROI Optimization**: Rating vs popularity correlation analysis provides framework for marketing budget allocation, targeting high-quality content with untapped audience reach: Identified 150+ high-rated films (8.0+) with low popularity scores, representing untapped promotion opportunities
 
 ## 🛠️ Tools & Technologies
 - **Data Cleaning**: Microsoft Excel, Power Query
